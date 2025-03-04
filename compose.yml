@@ -1,1 +1,16 @@
-Update this file to add the content
+
+services:
+  rakshanaa:
+    image: "rakshana008/22it037-personal-api"
+    container_name: rakshana04_container
+    restart: always
+    ports:
+      - "5003:5000"
+
+  poojasri:
+    image: "hariniarumugam/22it012-personal-api"
+    container_name: harini12_container_v3
+    restart: always
+    ports:
+      - "5004:5000"
+
