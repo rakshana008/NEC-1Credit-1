@@ -14,6 +14,18 @@ STEP 4: Run --> docker build -t personal-api .
 ![image](https://github.com/user-attachments/assets/ebd83f71-7bc6-46c6-9506-a5494d0922a2)
 STEP 5: Run --> docker run -d -p 5000:5000 personal-apI .
 ![image](https://github.com/user-attachments/assets/e84d8987-d3c7-43be-aa36-1bad1368d852)
+ STEP 6:compose the required yml code,which includes your colleauge docker image as well
+ ![image](https://github.com/user-attachments/assets/20152798-8117-4f4c-b6e5-33f497396a79)
+ STEP 7: to compose the yml file give the respective command a)docker compose up
+ ![image](https://github.com/user-attachments/assets/0630c209-20a1-46ed-9552-bf1dea2e933e)
+ STEP 8:use the respective commands a)docker push b)docker pull
+ ![image](https://github.com/user-attachments/assets/f8d29f9a-92bc-4fc4-83f0-bee77ab5df17)
+
+ 
+
+ 
+ 
+
 
 
 
