@@ -33,9 +33,13 @@ STEP 5: Run --> docker run -d -p 5000:5000 personal-apI .
  
  ![image](https://github.com/user-attachments/assets/0fe8baad-f05d-41dd-b20a-d50ee695a728)
  
- STEP 8:use the respective commands a)docker push b)docker pull
+ STEP 9:use the respective commands a)docker push b)docker pull
  
  ![image](https://github.com/user-attachments/assets/f8d29f9a-92bc-4fc4-83f0-bee77ab5df17)
+ STEP 10:docker hub login page
+
+ ![image](https://github.com/user-attachments/assets/9679ee12-45c4-4513-963b-3bdff634d2a3)
+
 
  
 
