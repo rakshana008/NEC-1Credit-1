@@ -12,7 +12,9 @@ STEP 3: Run the command python personal-api.py and check the details:
 ![image](https://github.com/user-attachments/assets/36c88e83-b403-4b3c-97c6-f3caed9b46a8)
 STEP 4: Run --> docker build -t personal-api .
 ![image](https://github.com/user-attachments/assets/ebd83f71-7bc6-46c6-9506-a5494d0922a2)
-STEP 5: Run --> docker run -d -p 5000:5000 personal-ap
+STEP 5: Run --> docker run -d -p 5000:5000 personal-apI .
+![image](https://github.com/user-attachments/assets/e84d8987-d3c7-43be-aa36-1bad1368d852)
+
 
 
 
